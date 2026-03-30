@@ -1,9 +1,6 @@
 <div align="center">
 <h2> Dual Distillation for Semantic and Geometric Local Feature Learning </h2>
-<p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg" alt="arXiv"></a>
-  <a href="https://github.com/你的用户名/你的仓库名"><img src="https://img.shields.io/badge/Project_Page-blue" alt="Project Page"></a>
-</p>
+
 
 <p align="center">
   Yiyuan Wang<sup>1,2</sup>,
@@ -43,10 +40,11 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/teaser.jpg" alt="Method Overview" width="75%">
-</p>
+
 
 ## 🔭 Overview
 
-Dual Distillation proposes a novel dual distillation framework that simultaneously enhances semantic and geometric local feature learning through teacher-student distillation, achieving superior performance on various downstream tasks including image matching, visual localization, and 3D reconstruction.
+Dual Distillation proposes a novel dual distillation framework that simultaneously enhances semantic and geometric local feature learning through teacher-student distillation, achieving superior performance on various downstream tasks including relative pose estimation, homography estimation, and visual localization demonstrate.
+<p align="center">
+  <img src="assets/0.jpg" alt="Method Overview" width="75%">
+</p>
