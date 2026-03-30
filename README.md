@@ -1,5 +1,7 @@
 <div align="center">
-<h2> Dual Distillation for Semantic and Geometric Local Feature Learning </h2>
+<h2> Dual Distillation for Semantic and Geometric Local Feature Learning  </h2>
+
+
 
 
 <p align="center">
@@ -10,6 +12,8 @@
   Weifeng Su<sup>1,5</sup>,
   Wentao Cheng<sup>1,†</sup>
 </p>
+
+Accepte by IEEE International Conference on Multimedia and Expo 2026 (ICME-2026 Thailand Mandani)
 
 <p align="center">
   <sup>1</sup>Department of Computer Science and Technology, Hong Kong Baptist University, Hong Kong, China <br>
