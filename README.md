@@ -25,8 +25,9 @@
 
 <!-- ==================== 机构 Logo 三行布局 ==================== -->
 <p align="center">
-  <img height="85" src="assets/logo_bnbu.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="85" src="assets/logo_hkbu.svg">
+  
+  <img height="300" src="assets/logo_hkbu.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="75" src="assets/logo_bnbu.svg"> 
 </p>
 
 <p align="center">
