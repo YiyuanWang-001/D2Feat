@@ -6,11 +6,11 @@
 
 <p align="center">
   Yiyuan Wang<sup>1,2</sup>,
-  Xinze Li<sup>1</sup>,
+  Xinze Li<sup>2</sup>,
   Puzhen Wu<sup>3</sup>,
   Junkai Zhang<sup>4</sup>,
-  Weifeng Su<sup>1,5</sup>,
-  Wentao Cheng<sup>1,†</sup>
+  Weifeng Su<sup>2,5</sup>,
+  Wentao Cheng<sup>2,†</sup>
 </p>
 
 Accepte by IEEE International Conference on Multimedia and Expo 2026 (ICME-2026 Thailand Mandani)
