@@ -13,7 +13,7 @@
   Wentao Cheng<sup>2,†</sup>
 </p>
 
-Accepte by IEEE International Conference on Multimedia and Expo 2026 (ICME-2026 Thailand Mandani)
+Accepte by IEEE International Conference on Multimedia and Expo 2026 (ICME-2026 Thailand Bangkok)
 
 <p align="center">
   <sup>1</sup>Department of Computer Science and Technology, Hong Kong Baptist University, Hong Kong, China <br>
