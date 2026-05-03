@@ -18,8 +18,8 @@ Accepte by IEEE International Conference on Multimedia and Expo 2026 (ICME-2026 
 <p align="center">
   <sup>1</sup>Department of Computer Science and Technology, Hong Kong Baptist University, Hong Kong, China <br>
   <sup>2</sup>Department of Computer Science and Technology, Beijing Normal-Hong Kong Baptist University, Zhuhai, China <br>
-  <sup>3</sup>Department of Orthopaedics and Traumatology, The University of Hong Kong, Hong Kong, China <br>
-  <sup>4</sup>School of Law, Tsinghua University, Beijing, China <br>
+  <sup>3</sup> LKS Faculty of Medicine, The University of Hong Kong, Hong Kong, China <br>
+  <sup>4</sup> Tsinghua University, Beijing, China <br>
   <sup>5</sup>Guangdong Provincial Key Laboratory of Interdisciplinary Research and Application for Data Science
 </p>
 
